@@ -1,8 +1,8 @@
 # Project: Polynomial Approximation
-In this repository, you can see how to do a polynomial approximation, using data from weather from 1985 to 2019, data collected by CONAGUA.
-https://datos.gob.mx/busca/dataset/temperatura-promedio-excel
+In this repository, there is an implemention for polynomial approximation along with the results of the implementation, datasets, analyisis of the results and some toughtful conclusions you can derive from this project. The data tha was used comes from the Official Site of the Goverment CONAGUA, which has datasets from the weather in all states in Mexico between 1985 - 2019. The site you can visit is the following 'https://datos.gob.mx/busca/dataset/temperatura-promedio-excel'
 
-You can see the results of this approximantion using the least square minimals, and the Cholesky method.
+##Methodology
+From a Mathematical perspective we derive the approximation via using the least square minimals and the solution of linear equations via using different methods, but one in particular that resulted in an effective when using so many data, the Cholesky Method.
 
 ## Author
 Alfonso Barajas Cervantes
