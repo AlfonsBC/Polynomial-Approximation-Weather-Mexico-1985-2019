@@ -4,5 +4,7 @@ In this repository, there is an implemention for polynomial approximation along 
 ##Methodology
 From a Mathematical perspective we derive the approximation via using the least square minimals and the solution of linear equations via using different methods, but one in particular that resulted in an effective when using so many data, the Cholesky Method.
 
+![b](https://user-images.githubusercontent.com/63176184/110260607-95bb2000-7f72-11eb-806b-00f872547584.png)
+
 ## Author
 Alfonso Barajas Cervantes
